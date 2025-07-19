@@ -1,0 +1,4 @@
+Si andrà a realizzare un programma per attivare
+la marcia avanti/indietro di un motore con
+eventuale arresto. Il cambio di marcia può però
+solamente avvenire quando il motore è fermo. 
