@@ -1,0 +1,10 @@
+Facendo uso di timer e contatori, create due programmi diversi che
+seguano i seguenti requisiti:
+1. Il programma deve attivare il buzzer durante 5 s quando la
+commutazione da 0 a 1 di un interruttore avviene almeno 6 volte. È
+necessario un altro interruttore per resettare il conteggio.
+2. Il programma deve contare se la commutazione da 0 a 1 di un
+interruttore avviene almeno 7 volte, dopodichè aspettare 10 s prima di
+accendere la lampadina che deve rimanere accesa fino a quando non
+viene premuto l’interruttore di reset. Quando si spegne la lampadina è
+necessario resettare anche il conteggio.

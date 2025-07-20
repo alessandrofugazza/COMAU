@@ -1,0 +1,8 @@
+Usando tre tipi di timer diversi, programmate tre rung che seguano i seguenti
+requisiti:
+1. La commutazione da 1 a 0 di un’entrata, ritarda lo spegnimento dell’uscita di
+10 s.
+2. La commutazione da 0 a 1 di un’entrata e il suo mantenimento, attiva un’uscita
+dopo 5 s.
+3. Attivazione di un’uscita per la durata di 3 s dopo la commutazione da 0 a 1 di
+un’entrata.

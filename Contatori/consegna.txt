@@ -1,0 +1,6 @@
+Usando due tipi di contatori diversi, programmate due rung che seguano i
+seguenti requisiti:
+1. Attivazione di un’uscita quando la commutazione da 0 a 1 avviene almeno
+8 volte. È necessaria un’entrata per resettare il conteggio.
+2. Attivazione di un’uscita quando la commutazione da 0 a 1 avviene almeno
+14 volte. È necessaria un’entrata per resettare il conteggio.

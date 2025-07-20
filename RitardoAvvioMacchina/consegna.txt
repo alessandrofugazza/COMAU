@@ -1,0 +1,5 @@
+L’impianto serve per avviare una macchina (KM1)
+con un ritardo dal comando di "Start" (P1) di 1sec.
+L’arresto della macchina avviene quando viene
+premuto un pulsante di "Stop" (Ps) di tipo
+normalmente chiuso.

@@ -1,0 +1,13 @@
+Si andrà a realizzare un programma che, attraverso l’uso di funzioni (FC) e
+blocchi di funzioni (FB), consentirà di simulare un impianto progettato per
+controllare l’avvio temporizzato di tre elettrovalvole industriali. 
+
+Per programmare il circuito di avvio dell’impianto, utilizza una funzione (FC) che
+consenta di controllare se vengono attivati i pulsanti P1 e P2 per l’accensione
+dell’impianto. 
+
+Per programmare il circuito di avvio delle elettrovalvole,
+utilizza tre blocchi funzionali (FB) per controllare la loro
+attivazione. Le tre elettrovalvole dovranno essere attivate
+mediante il loro pulsante di accensione e dovranno rimanere
+attive in base ai tempi indicati in questa tabella:

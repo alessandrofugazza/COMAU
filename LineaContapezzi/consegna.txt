@@ -1,0 +1,14 @@
+E’ richiesto di scrivere un programma per il PLC per il controllo di una
+linea automatica di conteggio bottiglie contenga un blocco
+funzionale FB in grado di svolgere il compito di contapezzi.
+Il programma deve rispettare i seguenti requisiti:
+• Il blocco funzionale FB deve essere in grado di ricevere in entrata il
+segnale di una fotocellula, per far si che ogni volta che una fotocellula
+invii un segnale per la presenza di una bottiglia, il conteggio venga
+incrementato.
+• Il programma deve essere in grado di contare: il numero totale di
+bottiglie, il numero di bottiglie con il tappo di plastica e il numero di
+bottiglie con il tappo in metallo.
+• La linea viene messa in funzione quando viene attivato il pulsante di
+avvio P1. Attivando il pulsante P1, si attiva il nastro trasportatore e il
+sistema di conteggio.
