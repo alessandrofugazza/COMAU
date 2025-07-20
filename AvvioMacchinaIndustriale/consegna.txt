@@ -1,0 +1,19 @@
+In un impianto industriale è necessario l’avvio di un certo macchinario attraverso l’attivazione di un
+teleruttore (KM1).
+L’avvio è dato da un’esatta sequenza di pulsanti (P1, P2 e P3 in quest’ordine), come se fosse una
+specie di combinazione per evitare avviamenti da parte di personale non autorizzato.
+L’arresto della macchina avviene quando viene premuto il pulsante Ps.
+
+L’operatore per avviare la macchina deve premere P1, P2 e P3 in sequenza, le combinazioni errate
+non causano azzeramenti. La pressione di ogni pulsante deve essere “memorizzata” per permettere la
+determinazione del giusto ordine progressivo di comando con il sistema dei consensi, dove un
+pulsante abilita il successivo e cosi via.
+L’impianto è arrestato agendo sul pulsante Ps che è di tipo normalmente chiuso.
+Lo stato operativo della macchina è segnalato da una lampada che si accende quando parte la
+macchina e si spegne quando la macchina viene spenta.
+•P1: Primo pulsante della sequenza.
+•P2: Secondo pulsante della sequenza.
+•P3: Terzo pulsante della sequenza.
+•Ps (n.c.): Pulsante di arresto.
+•L: Lampada di segnalazione.
+•KM1: Teleruttore di eccitazione della macchina.
